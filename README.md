@@ -8,40 +8,26 @@ Welcome to my GitHub profile. I'm an iOS & Web Developer. I work with various pr
 
 ## Skills & Technologies
 
-- **HTML**
-  <div style="width: 100%; background-color: #E34F26; border-radius: 5px; height: 20px;">
-    <div style="width: 92%; background-color: #D75A31; height: 100%; border-radius: 5px;"></div>
-  </div>
+- **HTML**  
+  ![HTML](https://via.placeholder.com/500x20/E34F26/ffffff?text=HTML+92%25)
 
-- **CSS**
-  <div style="width: 100%; background-color: #1572B6; border-radius: 5px; height: 20px;">
-    <div style="width: 84%; background-color: #0D4D73; height: 100%; border-radius: 5px;"></div>
-  </div>
+- **CSS**  
+  ![CSS](https://via.placeholder.com/500x20/1572B6/ffffff?text=CSS+84%25)
 
-- **JavaScript**
-  <div style="width: 100%; background-color: #F7DF1E; border-radius: 5px; height: 20px;">
-    <div style="width: 47%; background-color: #F0C200; height: 100%; border-radius: 5px;"></div>
-  </div>
+- **JavaScript**  
+  ![JavaScript](https://via.placeholder.com/500x20/F7DF1E/ffffff?text=JavaScript+47%25)
 
-- **Node.js (learning)**
-  <div style="width: 100%; background-color: #8CC84B; border-radius: 5px; height: 20px;">
-    <div style="width: 0%; background-color: #6A9A35; height: 100%; border-radius: 5px;"></div>
-  </div>
+- **Node.js (learning)**  
+  ![Node.js](https://via.placeholder.com/500x20/8CC84B/ffffff?text=Node.js+0%25+%28learning%29)
 
-- **Swift/SwiftUI**
-  <div style="width: 100%; background-color: #F05138; border-radius: 5px; height: 20px;">
-    <div style="width: 79%; background-color: #D74031; height: 100%; border-radius: 5px;"></div>
-  </div>
+- **Swift/SwiftUI**  
+  ![Swift/SwiftUI](https://via.placeholder.com/500x20/F05138/ffffff?text=Swift%2FSwiftUI+79%25)
 
-- **Objective-C (learning)**
-  <div style="width: 100%; background-color: #8A3A1A; border-radius: 5px; height: 20px;">
-    <div style="width: 0%; background-color: #6A2D13; height: 100%; border-radius: 5px;"></div>
-  </div>
+- **Objective-C (learning)**  
+  ![Objective-C](https://via.placeholder.com/500x20/8A3A1A/ffffff?text=Objective-C+0%25+%28learning%29)
 
-- **Prompting GPT**
-  <div style="width: 100%; background-color: #66CCFF; border-radius: 5px; height: 20px;">
-    <div style="width: 100%; background-color: #3399FF; height: 100%; border-radius: 5px;"></div>
-  </div>
+- **Prompting GPT**  
+  ![Prompting GPT](https://via.placeholder.com/500x20/66CCFF/ffffff?text=Prompting+GPT+100%25)
 
 I sometimes also work with Luau/Lua, C++, C, and C# but I'm barely experienced and don't see the need to learn it.
 
