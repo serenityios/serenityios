@@ -9,25 +9,19 @@ Welcome to my GitHub profile. I'm an iOS & Web Developer. I work with various pr
 ## Skills & Technologies
 
 - **HTML**  
-  ![HTML](https://via.placeholder.com/1000x40/E34F26/ffffff?text=HTML+92%25)
-
+  ![HTML](http://us-central1-progress-markdown.cloudfunctions.net/progress/92)  
 - **CSS**  
-  ![CSS](https://via.placeholder.com/1000x40/1572B6/ffffff?text=CSS+84%25)
-
+  ![CSS](http://us-central1-progress-markdown.cloudfunctions.net/progress/84)  
 - **JavaScript**  
-  ![JavaScript](https://via.placeholder.com/1000x40/F7DF1E/ffffff?text=JavaScript+47%25)
-
+  ![JavaScript](http://us-central1-progress-markdown.cloudfunctions.net/progress/47)  
 - **Node.js (learning)**  
-  ![Node.js](https://via.placeholder.com/1000x40/8CC84B/ffffff?text=Node.js+0%25+%28learning%29)
-
+  ![Node.js](http://us-central1-progress-markdown.cloudfunctions.net/progress/0)  
 - **Swift/SwiftUI**  
-  ![Swift/SwiftUI](https://via.placeholder.com/1000x40/F05138/ffffff?text=Swift%2FSwiftUI+79%25)
-
+  ![Swift/SwiftUI](http://us-central1-progress-markdown.cloudfunctions.net/progress/79)  
 - **Objective-C (learning)**  
-  ![Objective-C](https://via.placeholder.com/1000x40/8A3A1A/ffffff?text=Objective-C+0%25+%28learning%29)
-
+  ![Objective-C](http://us-central1-progress-markdown.cloudfunctions.net/progress/0)  
 - **Prompting GPT**  
-  ![Prompting GPT](https://via.placeholder.com/1000x40/66CCFF/ffffff?text=Prompting+GPT+100%25)
+  ![Prompting GPT](http://us-central1-progress-markdown.cloudfunctions.net/progress/100)  
 
 I sometimes also work with Luau/Lua, C++, C, and C# but I'm barely experienced and don't see the need to learn it.
 
@@ -35,5 +29,4 @@ I sometimes also work with Luau/Lua, C++, C, and C# but I'm barely experienced a
 - [Serenity iOS](https://serenityios.com)
 - [Serenity APIs](https://serenityapis.top)
 - [GitHub](https://github.com/serenityios)
-- [Twitter](https://twitter.com/serenityios)
 
