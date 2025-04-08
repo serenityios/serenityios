@@ -8,17 +8,46 @@ Welcome to my GitHub profile. I'm an iOS & Web Developer. I work with various pr
 
 ## Skills & Technologies
 
-- **HTML**: ![HTML](https://img.shields.io/badge/HTML-92%25-E34F26?style=for-the-badge&logo=html5)
-- **CSS**: ![CSS](https://img.shields.io/badge/CSS-84%25-1572B6?style=for-the-badge&logo=css3)
-- **JavaScript**: ![JavaScript](https://img.shields.io/badge/JavaScript-47%25-F7DF1E?style=for-the-badge&logo=javascript)
-- **Node.js**: ![Node.js](https://img.shields.io/badge/Node.js-0%25-8CC84B?style=for-the-badge&logo=node.js)
-- **Swift/SwiftUI**: ![Swift/SwiftUI](https://img.shields.io/badge/Swift-79%25-F05138?style=for-the-badge&logo=swift)
-- **Objective-C**: ![Objective-C](https://img.shields.io/badge/Objective--C-0%25-8A3A1A?style=for-the-badge&logo=apple)
-- **Prompting GPT**: ![Prompting GPT](https://img.shields.io/badge/Prompting%20GPT-100%25-66CCFF?style=for-the-badge)
+- **HTML**
+  <div style="width: 100%; background-color: #E34F26; border-radius: 5px; height: 20px;">
+    <div style="width: 92%; background-color: #D75A31; height: 100%; border-radius: 5px;"></div>
+  </div>
 
-  I sometimes also work with Luau/Lua, C++, C, and C# but I'm barely experienced and don't see the need to learn it.
+- **CSS**
+  <div style="width: 100%; background-color: #1572B6; border-radius: 5px; height: 20px;">
+    <div style="width: 84%; background-color: #0D4D73; height: 100%; border-radius: 5px;"></div>
+  </div>
+
+- **JavaScript**
+  <div style="width: 100%; background-color: #F7DF1E; border-radius: 5px; height: 20px;">
+    <div style="width: 47%; background-color: #F0C200; height: 100%; border-radius: 5px;"></div>
+  </div>
+
+- **Node.js (learning)**
+  <div style="width: 100%; background-color: #8CC84B; border-radius: 5px; height: 20px;">
+    <div style="width: 0%; background-color: #6A9A35; height: 100%; border-radius: 5px;"></div>
+  </div>
+
+- **Swift/SwiftUI**
+  <div style="width: 100%; background-color: #F05138; border-radius: 5px; height: 20px;">
+    <div style="width: 79%; background-color: #D74031; height: 100%; border-radius: 5px;"></div>
+  </div>
+
+- **Objective-C (learning)**
+  <div style="width: 100%; background-color: #8A3A1A; border-radius: 5px; height: 20px;">
+    <div style="width: 0%; background-color: #6A2D13; height: 100%; border-radius: 5px;"></div>
+  </div>
+
+- **Prompting GPT**
+  <div style="width: 100%; background-color: #66CCFF; border-radius: 5px; height: 20px;">
+    <div style="width: 100%; background-color: #3399FF; height: 100%; border-radius: 5px;"></div>
+  </div>
+
+I sometimes also work with Luau/Lua, C++, C, and C# but I'm barely experienced and don't see the need to learn it.
 
 ## Socials & Links
 - [Serenity iOS](https://serenityios.com)
 - [Serenity APIs](https://serenityapis.top)
 - [GitHub](https://github.com/serenityios)
+- [Twitter](https://twitter.com/serenityios)
+
