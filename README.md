@@ -8,13 +8,13 @@ Welcome to my GitHub profile. I'm an iOS & Web Developer. I work with various pr
 
 ## Skills & Technologies
 
-- **HTML**: ![HTML](https://progress-bar.dev/92?title=HTML&color=%23E34F26)
-- **CSS**: ![CSS](https://progress-bar.dev/84?title=CSS&color=%231572B6)
-- **JavaScript**: ![JavaScript](https://progress-bar.dev/47?title=JavaScript&color=%23F7DF1E)
-- **Node.js**: ![Node.js](https://progress-bar.dev/0?title=Node.js%20(learning)&color=%238CC84B)
-- **Swift/SwiftUI**: ![Swift/SwiftUI](https://progress-bar.dev/79?title=Swift/SwiftUI&color=%23F05138)
-- **Objective-C**: ![Objective-C](https://progress-bar.dev/0?title=Objective-C%20(learning)&color=%238A3A1A)
-- **Prompting GPT**: ![Prompting GPT](https://progress-bar.dev/100?title=Prompting%20GPT&color=%2366CCFF)
+- **HTML**: ![HTML](https://img.shields.io/badge/HTML-92%25-E34F26?style=for-the-badge&logo=html5)
+- **CSS**: ![CSS](https://img.shields.io/badge/CSS-84%25-1572B6?style=for-the-badge&logo=css3)
+- **JavaScript**: ![JavaScript](https://img.shields.io/badge/JavaScript-47%25-F7DF1E?style=for-the-badge&logo=javascript)
+- **Node.js**: ![Node.js](https://img.shields.io/badge/Node.js-0%25-8CC84B?style=for-the-badge&logo=node.js)
+- **Swift/SwiftUI**: ![Swift/SwiftUI](https://img.shields.io/badge/Swift-79%25-F05138?style=for-the-badge&logo=swift)
+- **Objective-C**: ![Objective-C](https://img.shields.io/badge/Objective--C-0%25-8A3A1A?style=for-the-badge&logo=apple)
+- **Prompting GPT**: ![Prompting GPT](https://img.shields.io/badge/Prompting%20GPT-100%25-66CCFF?style=for-the-badge)
 
   I sometimes also work with Luau/Lua, C++, C, and C# but I'm barely experienced and don't see the need to learn it.
 
@@ -22,4 +22,3 @@ Welcome to my GitHub profile. I'm an iOS & Web Developer. I work with various pr
 - [Serenity iOS](https://serenityios.com)
 - [Serenity APIs](https://serenityapis.top)
 - [GitHub](https://github.com/serenityios)
-- [Twitter](https://twitter.com/serenityios)
